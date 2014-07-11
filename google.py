@@ -1,12 +1,16 @@
 '''Google Search Module For Windows Explorer By Pradd
 
 Created By : geekpradd
+
 License : GPL V2 
+
 '''
 
 
 
 import sys, os
+
+usage = "To search on Google , enter the following Command python google.py [your search term] "
 
 if len(sys.argv) <2:
 
