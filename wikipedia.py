@@ -2,8 +2,7 @@
 
 Created By : geekpradd
 
-License : GPL V2
-
+License : Apache 2.0
 '''
 
 
