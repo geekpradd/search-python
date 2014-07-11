@@ -1,3 +1,12 @@
+''' Quora Search For Windows Explorer and Command Prompt By Pradd
+
+Created By : geekpradd
+
+License : GPL V2
+
+'''
+
+
 import sys, os
 
 usage = "Enter The Search Term To Search on Quora like this python quora.py [search term]"
