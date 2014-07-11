@@ -1,4 +1,4 @@
-search-python
+Python Search Modules For Windows Explorer
 =============
 
 Various Search Modules Based on Python to help searching folder names and files on the Internet for Windows Explorer.
@@ -9,12 +9,18 @@ Get the latest version of Python at http://www.python.org/getit/.
 Works with both Python 2.x and 3.x
 
 Modules:
+
 1.Wikipedia Search 
+
 2.Google Search
+
 3.YouTube Search
+
 4.Quora Search
 
+
 Usage:
+
 Copy all the .cmd files to the System Send To Folder In Windows. This can be accessed by typing shell:sendto in the Windows Explorer Search Bar.
 
 After that Copy all the Python Scripts to the C:\ Parition and save them there. (You can change this by editing the cmd files)
